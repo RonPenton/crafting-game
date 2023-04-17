@@ -1,0 +1,35 @@
+{
+  "name": "crafting-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonPenton/crafting-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonPenton/crafting-game/issues"
+  },
+  "homepage": "https://github.com/RonPenton/crafting-game#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/react": "^18.0.35",
+    "@types/react-dom": "^18.0.11",
+    "phaser": "^3.60.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "ts-loader": "^9.4.2",
+    "webpack": "^5.79.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.13.3"
+  }
+}
